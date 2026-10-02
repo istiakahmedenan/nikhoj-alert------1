@@ -1,6 +1,0 @@
-{
-  "name": "Nikhoj Alert - নিখোঁজ অ্যালার্ট",
-  "description": "নিখোঁজ মানুষ ও হারানো জিনিসের খোঁজে, একসাথে পুরো বাংলাদেশ। Bangladesh's dedicated missing persons & lost/found items platform.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
